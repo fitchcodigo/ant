@@ -1,3 +1,4 @@
 projectos de java
-eljuegodelmiedo.java = hangman game
-codigomorse.java = encryption machine
+//projects not mentioned have self-explainatory names
+//eljuegodelmiedo.java = hangman game
+//codigomorse.java = encryption machine
